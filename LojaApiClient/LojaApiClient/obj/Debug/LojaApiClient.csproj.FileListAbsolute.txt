@@ -1,0 +1,6 @@
+D:\C#_Projetos\WebAPIAlura\WebAPIClient\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe.config
+D:\C#_Projetos\WebAPIAlura\WebAPIClient\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe
+D:\C#_Projetos\WebAPIAlura\WebAPIClient\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.pdb
+D:\C#_Projetos\WebAPIAlura\WebAPIClient\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.exe
+D:\C#_Projetos\WebAPIAlura\WebAPIClient\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.pdb
+D:\C#_Projetos\WebAPIAlura\WebAPIClient\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.csprojResolveAssemblyReference.cache
